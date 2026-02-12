@@ -58,7 +58,15 @@ The objective of this project is to transform raw business data into meaningful 
 ## 🚀 How to Use  
 
 1. Download the PDF file from this repository.  
-2. Open it using any PDF viewer to explore the dashboard.  
+2. Open it using any PDF viewer to explore the dashboard.
+
+---
+
+## 📷 Dashboard Preview  
+
+![Sales Dashboard](sales-dashboard.png)  
+![Management Dashboard](management-dashboard.png)
+
 
 (If the .pbix file is included, open it in Power BI Desktop for full interaction.)
 
